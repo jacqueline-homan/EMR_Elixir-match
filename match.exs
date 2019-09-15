@@ -35,7 +35,7 @@ defmodule Match do
 
 end
 # Here we call read_file on a sample csv file
-file = "testfile.csv"
+file = "test.csv"
 Match.read_file(file)
 
 # Here, we implement the logic for taking user input
